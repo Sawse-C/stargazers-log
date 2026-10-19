@@ -1,0 +1,20 @@
+[
+  {
+    "full_name": "github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "starred_at": "2025-02-14"
+  },
+  {
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code is a lightweight but powerful source code editor.",
+    "url": "https://github.com/microsoft/vscode",
+    "starred_at": "2025-01-20"
+  },
+  {
+    "full_name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starred_at": "2024-12-05"
+  }
+]
